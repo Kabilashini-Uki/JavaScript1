@@ -51,4 +51,4 @@ function ispalindrome(str){
 if (ispalindrome(str))
 console.log("Yes, "+str+" is palindrome word")
 else
-    console.log(" no "+str+" isn't a palindrome word")
+    console.log(" no "+str+" isn't a palindrome word");
