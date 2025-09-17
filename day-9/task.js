@@ -38,7 +38,7 @@ console.log("The summation of four numbers is = "+total)
 
 //PALINDROME "AMMA"
 
-let str="AMMA"
+let str="aatt"
 function ispalindrome(str){
     let ispalin = true;
       for (let i = 0; i < (str.length/2) ; i++){
