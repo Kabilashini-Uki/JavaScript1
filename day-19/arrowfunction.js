@@ -22,7 +22,7 @@ function alineSentense(){
             newPrase.push(word[2])
         }
         else if(i==1){
-            newPrase.push(word[3])
+            newPrase.push(word[3]+',')
         }
 
         else if(i==2){
